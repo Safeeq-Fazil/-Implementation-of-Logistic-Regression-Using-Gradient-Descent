@@ -125,6 +125,7 @@ np.mean(predict(res.x,X)==y)
 ![image](https://github.com/Safeeq-Fazil/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118680361/27e26ef4-4fc5-4e13-8213-6429abc26d68)
 
 ![image](https://github.com/Safeeq-Fazil/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118680361/96219c5e-916a-45fa-88cf-1f53aa7f3d2b)
+
 ![image](https://github.com/Safeeq-Fazil/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118680361/37b84c10-f2ee-4171-8100-41cc29eca2a8)
 
 ![image](https://github.com/Safeeq-Fazil/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118680361/3def0acd-cc05-416a-9e31-c18f5889d711)
@@ -138,6 +139,7 @@ np.mean(predict(res.x,X)==y)
 ![image](https://github.com/Safeeq-Fazil/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118680361/24575073-374e-44b4-99e7-3e52d4510531)
 
 ![image](https://github.com/Safeeq-Fazil/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118680361/7c87580a-1725-4d2a-a603-ea53160a27a3)
+
 ![image](https://github.com/Safeeq-Fazil/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118680361/1b780564-39fc-4520-aaef-259f28dd80b1)
 
 ## Result:
